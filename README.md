@@ -11,6 +11,7 @@ Demo Code: http://www.buydisplay.com/download/democode/ER-OLEDM032-1_DemoCode.tx
 
 ## Wiring
 I'm using 4 line SPI. Therefore I had to move jumper BS1 to R19 (0) and keep BS0 at R21 (0). See Interface documentation for more informations.
+
 | netduino port | ER-OLEDM032-1 | description |
 |---|---|---|
 | Digital I/O 0 | 15 | reset |
